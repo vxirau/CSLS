@@ -1,0 +1,1378 @@
+[
+  {
+    "id": 0,
+    "connection_name": "Connection1",
+    "room_connected": [
+      8,
+      0,
+      1
+    ],
+    "enemy_probability": 40
+  },
+  {
+    "id": 1,
+    "connection_name": "Connection2",
+    "room_connected": [
+      9,
+      1,
+      2
+    ],
+    "enemy_probability": 18
+  },
+  {
+    "id": 2,
+    "connection_name": "Connection3",
+    "room_connected": [
+      10,
+      2,
+      3
+    ],
+    "enemy_probability": 21
+  },
+  {
+    "id": 3,
+    "connection_name": "Connection4",
+    "room_connected": [
+      11,
+      3,
+      4
+    ],
+    "enemy_probability": 33
+  },
+  {
+    "id": 4,
+    "connection_name": "Connection5",
+    "room_connected": [
+      12,
+      4,
+      5
+    ],
+    "enemy_probability": 87
+  },
+  {
+    "id": 5,
+    "connection_name": "Connection6",
+    "room_connected": [
+      13,
+      5,
+      6
+    ],
+    "enemy_probability": 7
+  },
+  {
+    "id": 6,
+    "connection_name": "Connection7",
+    "room_connected": [
+      14,
+      6,
+      7
+    ],
+    "enemy_probability": 75
+  },
+  {
+    "id": 7,
+    "connection_name": "Connection8",
+    "room_connected": [
+      15,
+      7
+    ],
+    "enemy_probability": 44
+  },
+  {
+    "id": 8,
+    "connection_name": "Connection9",
+    "room_connected": [
+      0,
+      16,
+      8
+    ],
+    "enemy_probability": 67
+  },
+  {
+    "id": 9,
+    "connection_name": "Connection10",
+    "room_connected": [
+      1,
+      17,
+      8,
+      9
+    ],
+    "enemy_probability": 61
+  },
+  {
+    "id": 10,
+    "connection_name": "Connection11",
+    "room_connected": [
+      2,
+      18,
+      9,
+      10
+    ],
+    "enemy_probability": 71
+  },
+  {
+    "id": 11,
+    "connection_name": "Connection12",
+    "room_connected": [
+      3,
+      19,
+      10,
+      11
+    ],
+    "enemy_probability": 13
+  },
+  {
+    "id": 12,
+    "connection_name": "Connection13",
+    "room_connected": [
+      4,
+      20,
+      11,
+      12
+    ],
+    "enemy_probability": 4
+  },
+  {
+    "id": 13,
+    "connection_name": "Connection14",
+    "room_connected": [
+      5,
+      21,
+      12,
+      13
+    ],
+    "enemy_probability": 23
+  },
+  {
+    "id": 14,
+    "connection_name": "Connection15",
+    "room_connected": [
+      6,
+      22,
+      13,
+      14
+    ],
+    "enemy_probability": 57
+  },
+  {
+    "id": 15,
+    "connection_name": "Connection16",
+    "room_connected": [
+      7,
+      23,
+      14,
+      15
+    ],
+    "enemy_probability": 38
+  },
+  {
+    "id": 16,
+    "connection_name": "Connection17",
+    "room_connected": [
+      8,
+      24,
+      16,
+      17
+    ],
+    "enemy_probability": 30
+  },
+  {
+    "id": 17,
+    "connection_name": "Connection18",
+    "room_connected": [
+      9,
+      25,
+      17,
+      18
+    ],
+    "enemy_probability": 68
+  },
+  {
+    "id": 18,
+    "connection_name": "Connection19",
+    "room_connected": [
+      10,
+      26,
+      18,
+      19
+    ],
+    "enemy_probability": 78
+  },
+  {
+    "id": 19,
+    "connection_name": "Connection20",
+    "room_connected": [
+      11,
+      27,
+      19,
+      20
+    ],
+    "enemy_probability": 24
+  },
+  {
+    "id": 20,
+    "connection_name": "Connection21",
+    "room_connected": [
+      12,
+      28,
+      20,
+      21
+    ],
+    "enemy_probability": 85
+  },
+  {
+    "id": 21,
+    "connection_name": "Connection22",
+    "room_connected": [
+      13,
+      29,
+      21,
+      22
+    ],
+    "enemy_probability": 90
+  },
+  {
+    "id": 22,
+    "connection_name": "Connection23",
+    "room_connected": [
+      14,
+      30,
+      22,
+      23
+    ],
+    "enemy_probability": 62
+  },
+  {
+    "id": 23,
+    "connection_name": "Connection24",
+    "room_connected": [
+      15,
+      31,
+      23
+    ],
+    "enemy_probability": 10
+  },
+  {
+    "id": 24,
+    "connection_name": "Connection25",
+    "room_connected": [
+      16,
+      32,
+      24
+    ],
+    "enemy_probability": 22
+  },
+  {
+    "id": 25,
+    "connection_name": "Connection26",
+    "room_connected": [
+      17,
+      33,
+      24,
+      25
+    ],
+    "enemy_probability": 57
+  },
+  {
+    "id": 26,
+    "connection_name": "Connection27",
+    "room_connected": [
+      18,
+      34,
+      25,
+      26
+    ],
+    "enemy_probability": 44
+  },
+  {
+    "id": 27,
+    "connection_name": "Connection28",
+    "room_connected": [
+      19,
+      35,
+      26,
+      27
+    ],
+    "enemy_probability": 26
+  },
+  {
+    "id": 28,
+    "connection_name": "Connection29",
+    "room_connected": [
+      20,
+      36,
+      27,
+      28
+    ],
+    "enemy_probability": 30
+  },
+  {
+    "id": 29,
+    "connection_name": "Connection30",
+    "room_connected": [
+      21,
+      37,
+      28,
+      29
+    ],
+    "enemy_probability": 84
+  },
+  {
+    "id": 30,
+    "connection_name": "Connection31",
+    "room_connected": [
+      22,
+      38,
+      29,
+      30
+    ],
+    "enemy_probability": 49
+  },
+  {
+    "id": 31,
+    "connection_name": "Connection32",
+    "room_connected": [
+      23,
+      39,
+      30,
+      31
+    ],
+    "enemy_probability": 5
+  },
+  {
+    "id": 32,
+    "connection_name": "Connection33",
+    "room_connected": [
+      24,
+      40,
+      32,
+      33
+    ],
+    "enemy_probability": 6
+  },
+  {
+    "id": 33,
+    "connection_name": "Connection34",
+    "room_connected": [
+      25,
+      41,
+      33,
+      34
+    ],
+    "enemy_probability": 7
+  },
+  {
+    "id": 34,
+    "connection_name": "Connection35",
+    "room_connected": [
+      26,
+      42,
+      34,
+      35
+    ],
+    "enemy_probability": 32
+  },
+  {
+    "id": 35,
+    "connection_name": "Connection36",
+    "room_connected": [
+      27,
+      43,
+      35,
+      36
+    ],
+    "enemy_probability": 87
+  },
+  {
+    "id": 36,
+    "connection_name": "Connection37",
+    "room_connected": [
+      28,
+      44,
+      36,
+      37
+    ],
+    "enemy_probability": 38
+  },
+  {
+    "id": 37,
+    "connection_name": "Connection38",
+    "room_connected": [
+      29,
+      45,
+      37,
+      38
+    ],
+    "enemy_probability": 10
+  },
+  {
+    "id": 38,
+    "connection_name": "Connection39",
+    "room_connected": [
+      30,
+      46,
+      38,
+      39
+    ],
+    "enemy_probability": 71
+  },
+  {
+    "id": 39,
+    "connection_name": "Connection40",
+    "room_connected": [
+      31,
+      47,
+      39
+    ],
+    "enemy_probability": 54
+  },
+  {
+    "id": 40,
+    "connection_name": "Connection41",
+    "room_connected": [
+      32,
+      48,
+      40
+    ],
+    "enemy_probability": 6
+  },
+  {
+    "id": 41,
+    "connection_name": "Connection42",
+    "room_connected": [
+      33,
+      49,
+      40,
+      41
+    ],
+    "enemy_probability": 86
+  },
+  {
+    "id": 42,
+    "connection_name": "Connection43",
+    "room_connected": [
+      34,
+      50,
+      41,
+      42
+    ],
+    "enemy_probability": 1
+  },
+  {
+    "id": 43,
+    "connection_name": "Connection44",
+    "room_connected": [
+      35,
+      51,
+      42,
+      43
+    ],
+    "enemy_probability": 9
+  },
+  {
+    "id": 44,
+    "connection_name": "Connection45",
+    "room_connected": [
+      36,
+      52,
+      43,
+      44
+    ],
+    "enemy_probability": 51
+  },
+  {
+    "id": 45,
+    "connection_name": "Connection46",
+    "room_connected": [
+      37,
+      53,
+      44,
+      45
+    ],
+    "enemy_probability": 23
+  },
+  {
+    "id": 46,
+    "connection_name": "Connection47",
+    "room_connected": [
+      38,
+      54,
+      45,
+      46
+    ],
+    "enemy_probability": 27
+  },
+  {
+    "id": 47,
+    "connection_name": "Connection48",
+    "room_connected": [
+      39,
+      55,
+      46,
+      47
+    ],
+    "enemy_probability": 25
+  },
+  {
+    "id": 48,
+    "connection_name": "Connection49",
+    "room_connected": [
+      40,
+      56,
+      48,
+      49
+    ],
+    "enemy_probability": 46
+  },
+  {
+    "id": 49,
+    "connection_name": "Connection50",
+    "room_connected": [
+      41,
+      57,
+      49,
+      50
+    ],
+    "enemy_probability": 97
+  },
+  {
+    "id": 50,
+    "connection_name": "Connection51",
+    "room_connected": [
+      42,
+      58,
+      50,
+      51
+    ],
+    "enemy_probability": 87
+  },
+  {
+    "id": 51,
+    "connection_name": "Connection52",
+    "room_connected": [
+      43,
+      59,
+      51,
+      52
+    ],
+    "enemy_probability": 40
+  },
+  {
+    "id": 52,
+    "connection_name": "Connection53",
+    "room_connected": [
+      44,
+      60,
+      52,
+      53
+    ],
+    "enemy_probability": 93
+  },
+  {
+    "id": 53,
+    "connection_name": "Connection54",
+    "room_connected": [
+      45,
+      61,
+      53,
+      54
+    ],
+    "enemy_probability": 48
+  },
+  {
+    "id": 54,
+    "connection_name": "Connection55",
+    "room_connected": [
+      46,
+      62,
+      54,
+      55
+    ],
+    "enemy_probability": 38
+  },
+  {
+    "id": 55,
+    "connection_name": "Connection56",
+    "room_connected": [
+      47,
+      63,
+      55
+    ],
+    "enemy_probability": 10
+  },
+  {
+    "id": 56,
+    "connection_name": "Connection57",
+    "room_connected": [
+      48,
+      64,
+      56
+    ],
+    "enemy_probability": 85
+  },
+  {
+    "id": 57,
+    "connection_name": "Connection58",
+    "room_connected": [
+      49,
+      65,
+      56,
+      57
+    ],
+    "enemy_probability": 37
+  },
+  {
+    "id": 58,
+    "connection_name": "Connection59",
+    "room_connected": [
+      50,
+      66,
+      57,
+      58
+    ],
+    "enemy_probability": 83
+  },
+  {
+    "id": 59,
+    "connection_name": "Connection60",
+    "room_connected": [
+      51,
+      67,
+      58,
+      59
+    ],
+    "enemy_probability": 23
+  },
+  {
+    "id": 60,
+    "connection_name": "Connection61",
+    "room_connected": [
+      52,
+      68,
+      59,
+      60
+    ],
+    "enemy_probability": 65
+  },
+  {
+    "id": 61,
+    "connection_name": "Connection62",
+    "room_connected": [
+      53,
+      69,
+      60,
+      61
+    ],
+    "enemy_probability": 29
+  },
+  {
+    "id": 62,
+    "connection_name": "Connection63",
+    "room_connected": [
+      54,
+      70,
+      61,
+      62
+    ],
+    "enemy_probability": 73
+  },
+  {
+    "id": 63,
+    "connection_name": "Connection64",
+    "room_connected": [
+      55,
+      71,
+      62,
+      63
+    ],
+    "enemy_probability": 10
+  },
+  {
+    "id": 64,
+    "connection_name": "Connection65",
+    "room_connected": [
+      56,
+      72,
+      64,
+      65
+    ],
+    "enemy_probability": 53
+  },
+  {
+    "id": 65,
+    "connection_name": "Connection66",
+    "room_connected": [
+      57,
+      73,
+      65,
+      66
+    ],
+    "enemy_probability": 56
+  },
+  {
+    "id": 66,
+    "connection_name": "Connection67",
+    "room_connected": [
+      58,
+      74,
+      66,
+      67
+    ],
+    "enemy_probability": 36
+  },
+  {
+    "id": 67,
+    "connection_name": "Connection68",
+    "room_connected": [
+      59,
+      75,
+      67,
+      68
+    ],
+    "enemy_probability": 69
+  },
+  {
+    "id": 68,
+    "connection_name": "Connection69",
+    "room_connected": [
+      60,
+      76,
+      68,
+      69
+    ],
+    "enemy_probability": 99
+  },
+  {
+    "id": 69,
+    "connection_name": "Connection70",
+    "room_connected": [
+      61,
+      77,
+      69,
+      70
+    ],
+    "enemy_probability": 20
+  },
+  {
+    "id": 70,
+    "connection_name": "Connection71",
+    "room_connected": [
+      62,
+      78,
+      70,
+      71
+    ],
+    "enemy_probability": 25
+  },
+  {
+    "id": 71,
+    "connection_name": "Connection72",
+    "room_connected": [
+      63,
+      79,
+      71
+    ],
+    "enemy_probability": 6
+  },
+  {
+    "id": 72,
+    "connection_name": "Connection73",
+    "room_connected": [
+      64,
+      80,
+      72
+    ],
+    "enemy_probability": 97
+  },
+  {
+    "id": 73,
+    "connection_name": "Connection74",
+    "room_connected": [
+      65,
+      81,
+      72,
+      73
+    ],
+    "enemy_probability": 73
+  },
+  {
+    "id": 74,
+    "connection_name": "Connection75",
+    "room_connected": [
+      66,
+      82,
+      73,
+      74
+    ],
+    "enemy_probability": 97
+  },
+  {
+    "id": 75,
+    "connection_name": "Connection76",
+    "room_connected": [
+      67,
+      83,
+      74,
+      75
+    ],
+    "enemy_probability": 88
+  },
+  {
+    "id": 76,
+    "connection_name": "Connection77",
+    "room_connected": [
+      68,
+      84,
+      75,
+      76
+    ],
+    "enemy_probability": 6
+  },
+  {
+    "id": 77,
+    "connection_name": "Connection78",
+    "room_connected": [
+      69,
+      85,
+      76,
+      77
+    ],
+    "enemy_probability": 32
+  },
+  {
+    "id": 78,
+    "connection_name": "Connection79",
+    "room_connected": [
+      70,
+      86,
+      77,
+      78
+    ],
+    "enemy_probability": 32
+  },
+  {
+    "id": 79,
+    "connection_name": "Connection80",
+    "room_connected": [
+      71,
+      87,
+      78,
+      79
+    ],
+    "enemy_probability": 5
+  },
+  {
+    "id": 80,
+    "connection_name": "Connection81",
+    "room_connected": [
+      72,
+      88,
+      80,
+      81
+    ],
+    "enemy_probability": 95
+  },
+  {
+    "id": 81,
+    "connection_name": "Connection82",
+    "room_connected": [
+      73,
+      89,
+      81,
+      82
+    ],
+    "enemy_probability": 69
+  },
+  {
+    "id": 82,
+    "connection_name": "Connection83",
+    "room_connected": [
+      74,
+      90,
+      82,
+      83
+    ],
+    "enemy_probability": 42
+  },
+  {
+    "id": 83,
+    "connection_name": "Connection84",
+    "room_connected": [
+      75,
+      91,
+      83,
+      84
+    ],
+    "enemy_probability": 88
+  },
+  {
+    "id": 84,
+    "connection_name": "Connection85",
+    "room_connected": [
+      76,
+      92,
+      84,
+      85
+    ],
+    "enemy_probability": 15
+  },
+  {
+    "id": 85,
+    "connection_name": "Connection86",
+    "room_connected": [
+      77,
+      93,
+      85,
+      86
+    ],
+    "enemy_probability": 49
+  },
+  {
+    "id": 86,
+    "connection_name": "Connection87",
+    "room_connected": [
+      78,
+      94,
+      86,
+      87
+    ],
+    "enemy_probability": 52
+  },
+  {
+    "id": 87,
+    "connection_name": "Connection88",
+    "room_connected": [
+      79,
+      95,
+      87
+    ],
+    "enemy_probability": 85
+  },
+  {
+    "id": 88,
+    "connection_name": "Connection89",
+    "room_connected": [
+      80,
+      96,
+      88
+    ],
+    "enemy_probability": 41
+  },
+  {
+    "id": 89,
+    "connection_name": "Connection90",
+    "room_connected": [
+      81,
+      97,
+      88,
+      89
+    ],
+    "enemy_probability": 74
+  },
+  {
+    "id": 90,
+    "connection_name": "Connection91",
+    "room_connected": [
+      82,
+      98,
+      89,
+      90
+    ],
+    "enemy_probability": 48
+  },
+  {
+    "id": 91,
+    "connection_name": "Connection92",
+    "room_connected": [
+      83,
+      99,
+      90,
+      91
+    ],
+    "enemy_probability": 50
+  },
+  {
+    "id": 92,
+    "connection_name": "Connection93",
+    "room_connected": [
+      84,
+      100,
+      91,
+      92
+    ],
+    "enemy_probability": 53
+  },
+  {
+    "id": 93,
+    "connection_name": "Connection94",
+    "room_connected": [
+      85,
+      101,
+      92,
+      93
+    ],
+    "enemy_probability": 26
+  },
+  {
+    "id": 94,
+    "connection_name": "Connection95",
+    "room_connected": [
+      86,
+      102,
+      93,
+      94
+    ],
+    "enemy_probability": 50
+  },
+  {
+    "id": 95,
+    "connection_name": "Connection96",
+    "room_connected": [
+      87,
+      103,
+      94,
+      95
+    ],
+    "enemy_probability": 53
+  },
+  {
+    "id": 96,
+    "connection_name": "Connection97",
+    "room_connected": [
+      88,
+      104,
+      96,
+      97
+    ],
+    "enemy_probability": 64
+  },
+  {
+    "id": 97,
+    "connection_name": "Connection98",
+    "room_connected": [
+      89,
+      105,
+      97,
+      98
+    ],
+    "enemy_probability": 30
+  },
+  {
+    "id": 98,
+    "connection_name": "Connection99",
+    "room_connected": [
+      90,
+      106,
+      98,
+      99
+    ],
+    "enemy_probability": 66
+  },
+  {
+    "id": 99,
+    "connection_name": "Connection100",
+    "room_connected": [
+      91,
+      107,
+      99,
+      100
+    ],
+    "enemy_probability": 53
+  },
+  {
+    "id": 100,
+    "connection_name": "Connection101",
+    "room_connected": [
+      92,
+      108,
+      100,
+      101
+    ],
+    "enemy_probability": 9
+  },
+  {
+    "id": 101,
+    "connection_name": "Connection102",
+    "room_connected": [
+      93,
+      109,
+      101,
+      102
+    ],
+    "enemy_probability": 8
+  },
+  {
+    "id": 102,
+    "connection_name": "Connection103",
+    "room_connected": [
+      94,
+      110,
+      102,
+      103
+    ],
+    "enemy_probability": 52
+  },
+  {
+    "id": 103,
+    "connection_name": "Connection104",
+    "room_connected": [
+      95,
+      111,
+      103
+    ],
+    "enemy_probability": 98
+  },
+  {
+    "id": 104,
+    "connection_name": "Connection105",
+    "room_connected": [
+      96,
+      112,
+      104
+    ],
+    "enemy_probability": 19
+  },
+  {
+    "id": 105,
+    "connection_name": "Connection106",
+    "room_connected": [
+      97,
+      113,
+      104,
+      105
+    ],
+    "enemy_probability": 65
+  },
+  {
+    "id": 106,
+    "connection_name": "Connection107",
+    "room_connected": [
+      98,
+      114,
+      105,
+      106
+    ],
+    "enemy_probability": 62
+  },
+  {
+    "id": 107,
+    "connection_name": "Connection108",
+    "room_connected": [
+      99,
+      115,
+      106,
+      107
+    ],
+    "enemy_probability": 66
+  },
+  {
+    "id": 108,
+    "connection_name": "Connection109",
+    "room_connected": [
+      100,
+      116,
+      107,
+      108
+    ],
+    "enemy_probability": 33
+  },
+  {
+    "id": 109,
+    "connection_name": "Connection110",
+    "room_connected": [
+      101,
+      117,
+      108,
+      109
+    ],
+    "enemy_probability": 71
+  },
+  {
+    "id": 110,
+    "connection_name": "Connection111",
+    "room_connected": [
+      102,
+      118,
+      109,
+      110
+    ],
+    "enemy_probability": 56
+  },
+  {
+    "id": 111,
+    "connection_name": "Connection112",
+    "room_connected": [
+      103,
+      119,
+      110,
+      111
+    ],
+    "enemy_probability": 53
+  },
+  {
+    "id": 112,
+    "connection_name": "Connection113",
+    "room_connected": [
+      104,
+      120,
+      112,
+      113
+    ],
+    "enemy_probability": 14
+  },
+  {
+    "id": 113,
+    "connection_name": "Connection114",
+    "room_connected": [
+      105,
+      121,
+      113,
+      114
+    ],
+    "enemy_probability": 5
+  },
+  {
+    "id": 114,
+    "connection_name": "Connection115",
+    "room_connected": [
+      106,
+      122,
+      114,
+      115
+    ],
+    "enemy_probability": 86
+  },
+  {
+    "id": 115,
+    "connection_name": "Connection116",
+    "room_connected": [
+      107,
+      123,
+      115,
+      116
+    ],
+    "enemy_probability": 97
+  },
+  {
+    "id": 116,
+    "connection_name": "Connection117",
+    "room_connected": [
+      108,
+      124,
+      116,
+      117
+    ],
+    "enemy_probability": 34
+  },
+  {
+    "id": 117,
+    "connection_name": "Connection118",
+    "room_connected": [
+      109,
+      125,
+      117,
+      118
+    ],
+    "enemy_probability": 47
+  },
+  {
+    "id": 118,
+    "connection_name": "Connection119",
+    "room_connected": [
+      110,
+      126,
+      118,
+      119
+    ],
+    "enemy_probability": 75
+  },
+  {
+    "id": 119,
+    "connection_name": "Connection120",
+    "room_connected": [
+      111,
+      127,
+      119
+    ],
+    "enemy_probability": 16
+  },
+  {
+    "id": 120,
+    "connection_name": "Connection121",
+    "room_connected": [
+      112,
+      120
+    ],
+    "enemy_probability": 68
+  },
+  {
+    "id": 121,
+    "connection_name": "Connection122",
+    "room_connected": [
+      113,
+      120,
+      121
+    ],
+    "enemy_probability": 96
+  },
+  {
+    "id": 122,
+    "connection_name": "Connection123",
+    "room_connected": [
+      114,
+      121,
+      122
+    ],
+    "enemy_probability": 69
+  },
+  {
+    "id": 123,
+    "connection_name": "Connection124",
+    "room_connected": [
+      115,
+      122,
+      123
+    ],
+    "enemy_probability": 57
+  },
+  {
+    "id": 124,
+    "connection_name": "Connection125",
+    "room_connected": [
+      116,
+      123,
+      124
+    ],
+    "enemy_probability": 56
+  },
+  {
+    "id": 125,
+    "connection_name": "Connection126",
+    "room_connected": [
+      117,
+      124,
+      125
+    ],
+    "enemy_probability": 97
+  },
+  {
+    "id": 126,
+    "connection_name": "Connection127",
+    "room_connected": [
+      118,
+      125,
+      126
+    ],
+    "enemy_probability": 45
+  },
+  {
+    "id": 127,
+    "connection_name": "Connection128",
+    "room_connected": [
+      119,
+      126,
+      127
+    ],
+    "enemy_probability": 83
+  }
+]

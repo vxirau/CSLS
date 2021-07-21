@@ -1,0 +1,70 @@
+[
+    {
+        "name": "rifle",
+        "price": 300
+    },
+    {
+        "name": "shootgun",
+        "price": 200
+    },
+    {
+        "name": "handgun",
+        "price": 100
+    },
+    {
+        "name": "rocket",
+        "price": 800
+    },
+    {
+        "name": "sniper",
+        "price": 500
+    },
+    {
+        "name": "katana",
+        "price": 900
+    },
+    {
+        "name": "grenade",
+        "price": 120
+    },
+    {
+        "name": "grenadelauncher",
+        "price": 1000
+    },
+    {
+        "name": "stungrenade",
+        "price": 250
+    },
+    {
+        "name": "machinegun",
+        "price": 850
+    },
+    {
+        "name": "submachinegun",
+        "price": 950
+    },
+    {
+        "name": "cannon",
+        "price": 1100
+    },
+    {
+        "name": "armor",
+        "price": 955
+    },
+    {
+        "name": "helmet",
+        "price": 920
+    },
+    {
+        "name": "smg",
+        "price": 810
+    },
+    {
+        "name": "bomb",
+        "price": 600
+    },
+    {
+        "name": "tank",
+        "price": 20000
+    }
+]
